@@ -1,1 +1,1 @@
-# CSF3034-Fatin
+# CSF3034-StudentProfile
